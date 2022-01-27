@@ -4,11 +4,11 @@ I learned how to create a repository on github and learned on all of its uses. A
 #####
 >I also learned all the github terms like
 - Branching
-- Forks
-  - * *Cloning* *
+  - Forks
+    - * *Cloning* *
       - **Commiting and Pushing**
-          - ***Pull requests***
-              - ~~Issues~~
+        - ***Pull requests***
+          - ~~Issues~~
 #####
 Some basic Git commands are:
 ```
