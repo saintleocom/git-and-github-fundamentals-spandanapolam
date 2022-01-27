@@ -17,3 +17,7 @@ git add
 git commit
 ```
 [My Github link](https://github.com/Srimammu)
+
+Course Review:
+- In my view, course is good. But i find it a little bit fast-paced for myself.
+- I find the usage of technologies for this course a little confusing. Little help with it during class is appreciated. 
